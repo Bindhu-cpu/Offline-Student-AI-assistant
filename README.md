@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-This project is an offline AI assistant for students. It uses Streamlit and Ollama to provide simple and clear answers.
+This project is an offline AI assistant  designed for students. It uses Streamlit and Ollama to provide simple and clear answers.
 
 ## 🚀 Features
 
