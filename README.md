@@ -5,6 +5,9 @@
 This project is an offline AI assistant  designed for students. It uses Streamlit and Ollama to provide simple and clear answers.
 It works without internet using Tinyllama + Ollama
 
+## Demo video
+[Watch Project Demo](https://drive.google.com/file/d/1s27-8GKt_kDjqoII5UZKpIAC3xqweDjb/view?usp=share_link)
+
 ## 🚀 Features
 
 - Chat interface
