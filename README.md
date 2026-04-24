@@ -34,6 +34,6 @@ This project uses TinyLlama via Ollama.
    ollama run tinyllama  
 
 Note: Model file is not included due to large size.
-👩‍💻 Author
 
+👩‍💻 Author
 Bindhu
